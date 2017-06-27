@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "1070464147328",
+    "project_id": "integrationexample-171907"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1070464147328:android:3d1cbddbd7d85e37",
+        "android_client_info": {
+          "package_name": "com.maalgaadi.admin.google"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1070464147328-fo1blga5ujg5iu9n24he9tn181k1d03o.apps.googleusercontent.com",
+          "client_type": 3
+        },
+        {
+          "client_id": "1070464147328-cqap915r1s6pnrgo5bh99aslistv0se3.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.maalgaadi.admin.google",
+            "certificate_hash": "782d9f90dc7409eaa2fb710934a772bae6154633"
+          }
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB7hdZbf9d6DdJwAXguMK7AOcq5rYJyRg0"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 1
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
